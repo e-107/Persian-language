@@ -1,0 +1,28 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_rate.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+
+define("RATELAN_0", "ÑÇí");
+define("RATELAN_1", "ÇÑÇ");
+define("RATELAN_2", "Èå Çíä ÇíÊã å äãÑå Çí ãí ÏåíÏ¿");
+define("RATELAN_3", "ÇÒ ÑÇí ÔãÇ ãÊÔ˜Ñíã!");
+define("RATELAN_4", "ÈÏæä ÑÊÈå");
+define("RATELAN_5", "ÑÊÈå:");
+define("RATELAN_6",	"áØÝÇ ÈÑÇí ÑÇí ÏÇÏä æÇÑÏ ÔæíÏ.");
+
+define("RATELAN_POOR","Îíáí ˜ã");
+define("RATELAN_FAIR","ÇÊÔíä");
+define("RATELAN_GOOD","ÎæÈ");
+define("RATELAN_VERYGOOD","Îíáí ÚÇáí");
+define("RATELAN_EXCELLENT","ãÍÔÑ");
+
+
+?>

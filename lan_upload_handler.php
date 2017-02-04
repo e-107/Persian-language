@@ -1,0 +1,33 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_upload_handler.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+define("LANUPLOAD_1", "äæÚ ÝÇíá");
+define("LANUPLOAD_2", "ÞÇÈáíÊ ÏÓÊÑÓí ÑÇ äÏÇÑÏ ÍÐÝ ÔæÏ");
+define("LANUPLOAD_3", "ÇáæÏ ÇäÌÇã ÔÏ");
+define("LANUPLOAD_4", "åí æÔå Çí ãæÌæÏ äíÓÊ íÇ ÞÇÈá äæÔÊä äíÓÊ ÈÑÇí  ÞÇÈá äæÔÊä ˜ÑÏä Èå æÖÚíÊ 777 ÊÛííÑ ÏåíÏ. (chmod 777)");
+define("LANUPLOAD_5", "The uploaded file exceeds the upload_max_filesize directive in php.ini.");
+define("LANUPLOAD_6", "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the html form.");
+define("LANUPLOAD_7", "ÝÇíá ÇáæÏ ÔÏå ÝÞØ ÈÕæÑÊ äÇÞÕ ÈæÏ.");
+define("LANUPLOAD_8", "ÝÇíáí ÇáæÏ äÔÏå.");
+define("LANUPLOAD_9", "ãÞÏÇÑ ÝÇíá ÇáæÏ ÔÏå ÕÝÑ ÈÇíÊ ÇÓÊ");
+define("LANUPLOAD_10", "ÝÇíá ÎÑÇÈ ÔÏ [Duplicate filename] - í˜ ÝÇíá ÏíÑ ÈÇ åãíä äÇã ãæÌæÏ ÇÓÊ");
+define("LANUPLOAD_11", "ÝÇíá ÇáæÏ äãí ÔæÏ¡ äÇã ÝÇíá: ");
+//define("LANUPLOAD_12", "Error"); new > LAN_ERROR
+define("LANUPLOAD_13", "íÏÇ ä˜ÑÏä æÔå äåÏÇÑí ãæÞÊ Êã");
+define("LANUPLOAD_14", "ÎØÇí äæÔÊä ÝÇíá");
+define("LANUPLOAD_15", "ÇáæÏ ãÌæÒ äÏÇÑÏ");
+define("LANUPLOAD_16", "ÎØÇí äÇãÔÎÕ");
+define("LANUPLOAD_17", "äÇã äÇãÚÊÈÑ ÈÑÇí ÝÇíá åÇí Çáæ ÔÏå");
+define("LANUPLOAD_18", "ÝÇíá åÇí ÇáæÏ ÔÏå ÏÇÑÇí ãÍÏæÏíÊ ãÌæÒ ãí ÈÇÔÏ.");
+define("LANUPLOAD_19", "ÊÚÏÇÏ ÒíÇÏí ÇÒ ÝÇíá åÇí ÇáæÏ ÔÏå  - ÈÚäæÇä ÇÖÇÝå ÈÇÑ ÍÐÝ ÔÏ.");
+
+
+?>

@@ -1,0 +1,32 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_page.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+
+define("LAN_PAGE_1", "áíÓÊ ÕÝÍÇÊ ÈÓÊå ÔÏå ÇÓÊ");
+define("LAN_PAGE_2", "ÇäÌÇ ÕÝÍå Çí äíÓÊ");
+define("LAN_PAGE_3", "ÕÝÍå ÎæÇÓÊå ÔÏå æÌæÏ äÏÇÑÏ ");
+define("LAN_PAGE_4", "ÑÊÈå Çíä ÕÝÍå");
+define("LAN_PAGE_5", "ãÊÔ˜Ñã ˜å Èå Çíä ÕÝÍå ÑÊÈå ÏÇÏíÏ");
+define("LAN_PAGE_6", "ÔãÇ ÈÑÇí ÏíÏä Çíä ÕÝÍå ãÌæÒ äÏÇÑíÏ ");
+//define("LAN_PAGE_7", "ÑãÒ ÚÈæÑ äÇÏÑÓÊ");//LAN_INCORRECT_PASSWORD
+define("LAN_PAGE_8", "ÕÝÍå ÑãÒ äÇÑí ÔÏå");
+//define("LAN_PAGE_9", "ÑãÒ ÚÈæÑ");//LAN_PASSWORD
+define("LAN_PAGE_10", "ËÈÊ");
+define("LAN_PAGE_11", "áíÓÊ ÕÝÍå");
+define("LAN_PAGE_12", "ÕÝÍå äÇãÚÊÈÑ");
+define("LAN_PAGE_13", "ÕÝÍå");
+
+define("LAN_PAGE_14", "ãÞÇáÇÊ ÏíÑ");
+define("LAN_PAGE_15", "ãÞÇáÇÊ");
+define("LAN_PAGE_16", "ÝÕáí ÇÒ Çíä ˜ÊÇÈ ÇäÌÇ æÌæÏ äÏÇÑÏ");
+
+
+?>

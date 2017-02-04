@@ -1,0 +1,21 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_membersonly.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+define("PAGE_NAME", "ÝÞØ ˜ÇÑÈÑÇä");
+
+define("LAN_MEMBERS_0", "ãäØÞå ãÍÕæÑ ÔÏå");
+define("LAN_MEMBERS_1", "Çíä ãäØÞå Çí ãÍÕæÑ ÔÏå ÇÓÊ.");
+define("LAN_MEMBERS_2","ÈÑÇí ãÌæÒ áØÝÇ  [log in]");
+define("LAN_MEMBERS_3","íÇ [register] ÈÇ íå äÇã ˜ÇÑÈÑí.");
+define("LAN_MEMBERS_4","˜áí˜ ˜äíÏ ÊÇ ÈÇÒÑÏíÏ Èå ÝÑÇäÊ íÌ");
+
+
+?>

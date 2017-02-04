@@ -1,0 +1,64 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_user_extended.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+// The LAN numbers correspond directly to the field types
+define("UE_LAN_1", "ÌÚÈå äæÔÊå");
+define("UE_LAN_2", "Ï˜ãå åÇí ÑÇÏíæíí");
+define("UE_LAN_3", "ãäæí ˜Ôæíí");
+define("UE_LAN_4", "ÝíáÏ ÌÏæá ÏíÊÇÈíÓ");
+define("UE_LAN_5", "ãÍá äæÔÊä");
+define("UE_LAN_6", "ÚÏÏ ÕÍíÍ ÇíäÊíÌÑ");
+//define("UE_LAN_7", "ÊÇÑíÎ");//LAN_DATE
+define("UE_LAN_8", "ÒÈÇä");
+define("UE_LAN_9", "áíÓÊ ÇÒ íÔ ÊÚÑíÝ ÔÏå");
+define("UE_LAN_10", "˜ ÈÇ˜Ó åÇ");
+// Leave a gap to allow for more field types
+define("UE_LAN_21", "äÇã");
+define("UE_LAN_22", "äæÚ");
+define("UE_LAN_23", "ÇÓÊÝÇÏå");
+
+define("UE_LAN_HIDE", "ãÎÝí ˜ÑÏä ÇÒ ˜ÇÑÈÑÇä");
+
+define("UE_LAN_LOCATION", "ãÓíÑ");
+define("UE_LAN_LOCATION_DESC", "ãÓíÑ ˜ÇÑÈÑ");
+define("UE_LAN_AIM", "AIM ÇÏÑÓ");
+define("UE_LAN_AIM_DESC", "AIM ÇÏÑÓ");
+define("UE_LAN_ICQ", "ICQ ÔãÇÑå");
+define("UE_LAN_ICQ_DESC", "ICQ ÔãÇÑå");
+define("UE_LAN_YAHOO", "Yahoo! ÇÏÑÓ");
+define("UE_LAN_YAHOO_DESC", "Yahoo! ÇÏÑÓ");
+define("UE_LAN_MSN", "MSN Çã ÇÓ Çä");
+define("UE_LAN_MSN_DESC", "MSN ÇÏÑÓ");
+define("UE_LAN_HOMEPAGE", "ÎÇäå");
+define("UE_LAN_HOMEPAGE_DESC", "ÎÇäå ˜ÇÑÈÑ (url)");
+define("UE_LAN_BIRTHDAY", "ÊæáÏ");
+define("UE_LAN_BIRTHDAY_DESC", "ÊæáÏ");
+define("UE_LAN_LANGUAGE", "ÒÈÇä");
+define("UE_LAN_LANGUAGE_DESC", "ÒÈÇä ˜ÇÑÈÑ");
+define("UE_LAN_COUNTRY", "˜ÔæÑ");
+define("UE_LAN_COUNTRY_DESC", "˜ÔæÑ ˜ÇÑÈÑ (includes db table)");
+define("UE_LAN_TIMEZONE", "ÓÇÚÊ ãÍá");
+define("UE_LAN_TIMEZONE_DESC", "ÓÇÚÊ ãÍáí ˜ÇÑÈÑ (from predefined list)");
+
+define("LAN_UE_FAIL_HOMEPAGE", "ÊäÙíãÇÊ æÑæÏí ÈÑÇí ÎÇäå äÇãÚÊÈÑ ÇÓÊ");
+
+define("UE_LAN_SKYPE","Skype ÇÓ˜Çí");
+define("UE_LAN_SKYPE_DESC","Skype ÇÏÑÓ");
+define("UE_LAN_GENDER","ÌäÓíÊ");
+define("UE_LAN_GENDER_DESC","ÌäÓíÊ");
+define("UE_LAN_MALE","ãÑÏ");
+define("UE_LAN_FEMALE","ÎÇäã");
+define("UE_LAN_COMMENT", "äÙÑÇÊ");
+define("UE_LAN_COMMENT_DESC", "ÌÚÈå äÙÑ");
+
+
+
+?>

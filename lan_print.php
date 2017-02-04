@@ -1,0 +1,27 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_print.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+if (!defined("PAGE_NAME")) { define("PAGE_NAME", "ÑíäÊÑ ÏæÓÊ ÏÇÔÊäí"); }
+
+define("LAN_PRINT_86", "ÏÓÊå:");
+define("LAN_PRINT_87", "ÊæÓØ ");
+define("LAN_PRINT_94", "ÇÑÓÇáí ÊæÓØ");
+define("LAN_PRINT_135", "ÇíÊã ÎÈÑí: ");
+define("LAN_PRINT_303", "Çíä ÇíÊã ÎÈÑí  åÓÊ ÇÒ ");
+//define("LAN_PRINT_304", "Title: ");//LAN_TITLE
+define("LAN_PRINT_305", "ÚäæÇä ÝÑÚí ãÞÇáå: ");
+define("LAN_PRINT_306", "Çíä åÓÊ ÇÒ: ");
+define("LAN_PRINT_307", "Ç Çíä ÕÝÍå");
+
+define("LAN_PRINT_1", "ÑíäÊÑ ÏæÓÊ ÏÇÔÊäí");
+
+
+?>

@@ -1,0 +1,31 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_userposts.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+define("PAGE_NAME", "ÇÑÓÇá åÇí ˜ÇÑÈÑ");
+
+define("UP_LAN_0", "ÊãÇã ÇÑÓÇá åÇí ÇäÌãä ÈÑÇí ");
+define("UP_LAN_1", "åãå äÙÑÇÊ ÈÑÇí ");
+define("UP_LAN_2", "ÈÎÔ");
+define("UP_LAN_3", "äãÇíÔ åÇ");
+define("UP_LAN_4", "ÇÓÎ åÇ");
+define("UP_LAN_5", "ÇÎÑíä ÇÑÓÇá");
+define("UP_LAN_6", "ÈÎÔ åÇ");
+define("UP_LAN_7", "ÈÏæä äÙÑí");
+define("UP_LAN_8", "ÈÏæä ÇÑÓÇáí");
+define("UP_LAN_9", " ÈÑÇí");
+define("UP_LAN_10", "ãÌÏÏ");
+define("UP_LAN_11", "ÇÑÓÇá ÊæÓØ");
+define("UP_LAN_12", "ÌÓÊÌæ");
+// define("UP_LAN_13", "äÙÑÇÊ");
+define("UP_LAN_14", "ÇÑÓÇá åÇí ÇäÌãä");
+define("UP_LAN_15", "ãÌÏÏ");
+define("UP_LAN_16", "ÇÏÑÓ Çí í");
+?>

@@ -1,0 +1,67 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_online.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+
+//v.616
+define("ONLINE_EL1", "ãåãÇäÇä: ");
+define("ONLINE_EL2", "˜ÇÑÈÑÇä: ");
+define("ONLINE_EL3", "ÏÑ Çíä ÕÝÍå: ");
+define("ONLINE_EL4", "ÇäáÇíä");
+define("ONLINE_EL5", "˜ÇÑÈÑÇä");
+define("ONLINE_EL6", "˜ÇÑÈÑÇä ÌÏíÏÊÑ");
+define("ONLINE_EL7", "äãÇíÔ ÏÇÏå ÔÏå");
+define("ONLINE_EL8", "ÈíÔÊÑ ÇäáÇíä åÓÊäÏ: ");
+define("ONLINE_EL9", "ÑæÔä");
+define("ONLINE_EL10", "äÇã ˜ÇÑÈÑí");
+define("ONLINE_EL11", "ÕÝÍÇÊ ÏíÏå ÔÏå");
+define("ONLINE_EL12", "ÇÓÎ Èå");
+define("ONLINE_EL13", "ÇäÌãä");
+define("ONLINE_EL14", "˜ÔÏå ÔÏå");
+define("ONLINE_EL15", "ÕÝÍå");
+define("ONLINE_EL16", "ÇØáÇÚÇÊ ÇãÇÏå äíÓÊ");
+
+define("CLASSRESTRICTED", "˜áÇÓ ãÍÏæÏ ˜ÑÏä ÕÝÍå ");
+//define("ARTICLEPAGE", "Article/Review");
+define("CHAT", "Ê");
+// define("COMMENT", "Comments");
+define("DOWNLOAD", "ÏÇäáæÏ åÇ");
+define("EMAIL", "email.php");
+define("FORUM", "ÇäÏ˜Ó ÇÕáí ÇäÌãä");
+define("LINKS", "áíä˜ åÇ");
+define("NEWS", "ÇÎÈÇÑ");
+define("OLDPOLLS", "äÙÑÓäÌí ÞÏíãí");
+define("POLLCOMMENT", "äÙÑÓäÌí");
+define("PRINTPAGE", "Ç");
+define("LOGIN", "æÇÑÏ ÔÏå ÇíÏ");
+define("SEARCH", "ÌÓÊÌæ ÔÏå");
+define("STATS", "æÖÚíÊ ÓÇíÊ");
+define("SUBMITNEWS", "ËÈÊ ÎÈÑ");
+define("UPLOAD", "ÇáæÏ åÇ");
+define("USERPAGE", "ÑæÝÇíá ˜ÇÑÈÑÇä ");
+define("USERSETTINGS", "ÊäÙíãÇÊ ˜ÇÑÈÑ");
+define("ONLINE", "˜ÇÑÈÑÇä ÇäáÇíä");
+define("LISTNEW", "áíÓÊ ÇíÊã åÇí ÌÏíÏ");
+define("USERPOSTS", "ÇÑÓÇá åÇí ˜ÇÑÈÑ");
+define("SUBCONTENT", "ËÈÊ ãÍÊæÇ");
+define("TOP", "ÈåÊÑíä ÇÑÓÇáåÇ/ÈíÔÊÑ ÈÎÔ åÇí ÝÚÇá");
+define("ADMINAREA", "ãäØÞå ãÏíÑ");
+define("BUGTRACKER", "ÖÏ æíÑæÓ");
+define("EVENT", "áíÓÊ ÑæíÏÇÏ åÇ");
+define("CALENDAR", "ÊÞæíã ÑæíÏÇÏ åÇ");
+define("FAQ", "ÑÓÔ");
+define("PM", "íÛÇã ÎÕæÕí");
+define("SURVEY", "ÈÇÒÏíÏ");
+define("ARTICLE", "ãÞÇáå");
+define("CONTENT", "ÕÝÍå ãÍÊæÇ");
+define("REVIEW", "ãÑæÑ");
+define("OTHER", "ÕÝÍÇÊ ÏíÑ: ");
+
+?>

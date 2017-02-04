@@ -1,0 +1,89 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_comment.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+
+define("COMLAN_0", "[ÈáÇ˜ ÔÏå ÊæÓØ ãÏíÑ]");
+define("COMLAN_1", "ÎÑæÌ ÇÒ ÈáÇ˜");
+define("COMLAN_2", "ÈáÇ˜");
+//define("COMLAN_3", "Delete"); //new > LAN_DELETE
+define("COMLAN_4", "ÇØáÇÚÇÊ");
+define("COMLAN_5", "äÙÑÇÊ ...");
+define("COMLAN_6", "ÈÑÇí äæÔÊä äÙÑ ÎæÏ ÇÈÊÏÇ ÈÇíÏ ãÊÕá ÔæíÏ -áØÝÇ æÇÑÏ ÔæíÏ íÇ ÇÑ ËÈÊ äÇã ä˜ÑÏå ÇíÏ ˜áí˜ ˜äíÏ");
+define("COMLAN_7", "ãÏíÑíÊ ÇÕáí ÓÇíÊ");
+define("COMLAN_8", "äÙÑ");
+define("COMLAN_9", "ËÈÊ äÙÑ");
+define("COMLAN_10", "ãÏíÑíÊ");
+define("COMLAN_11", "Was unable to enter your comment into the database - please retype leaving out any non-standard characters.");
+define("COMLAN_12", "˜ÇÑÈÑ");
+define("COMLAN_16", "äÇã ˜ÇÑÈÑí: ");
+// define("COMLAN_99", "Comments");
+define("COMLAN_100", "ÇÎÈÇÑ");
+define("COMLAN_101", "äÙÑÓäÌí");
+define("COMLAN_102", "ÇÓÎ Èå: ");
+define("COMLAN_103", "ãÞÇáå");
+define("COMLAN_104", "äãÇíÔ ãÌÏÏ");
+define("COMLAN_105", "ãÍÊæÇ");
+define("COMLAN_106", "ÏÇäáæÏ");
+define("COMLAN_145", "ËÈÊ äÇã ÔÏå: ");
+define("COMLAN_194", "ãåãÇä");
+define("COMLAN_195", "˜ÇÑÈÑ ËÈÊ äÇã ÔÏåÎ");
+define("COMLAN_310", "Unable to accept post as that username is registered - if it is your username please login to post.");
+define("COMLAN_312", "ÇÑÓÇá ÏæÈá - ãÌæÒ äÏÇÑíÏ");
+define("COMLAN_313", "ãÓíÑ");
+define("COMLAN_314", "ãÏíÑíÊ äÙÑÇÊ");
+define("COMLAN_315", "ÔÊíÈÇäí");
+define("COMLAN_316", "No trackbacks for this newspost.");
+define("COMLAN_317", "Moderate trackbacks");
+define("COMLAN_318", "æíÑÇíÔ äÙÑ");
+define("COMLAN_319", "æíÑÇíÔ ÔÏ");
+define("COMLAN_320", "ÈÑæÒÑÓÇäí äÙÑ");
+define("COMLAN_321", "ÇíäÌÇ");
+define("COMLAN_322", "ÌåÊ ËÈÊ äÇã");
+define("COMLAN_323", "ÎØÇ!");
+define("COMLAN_324", "ãæÖæÚ");
+define("COMLAN_325", "ÏæÈÇÑå:");
+define("COMLAN_326", "ÇÓÎ Èå Çíä");
+//define("COMLAN_327", "Rating");//LAN_RATING
+define("COMLAN_328", "äÙÑÇÊ ÈÓÊå ÔÏå Çä");
+define("COMLAN_329", "ÚÏã ãÌæÒ");
+define("COMLAN_330", "Çí í:");
+define("COMLAN_331", "ãÌæÒ áÇÒã");
+define("COMLAN_332", "äÙÑ ÍÐÝ äãíÔæÏ");
+define("COMLAN_333", "äÙÑ ÏÓÊÑÓí ÏÇÑÏ");
+define("COMLAN_334", "äÙÑ ãÌæÒ äÏÇÑÏ");
+define("COMLAN_335", "ãÌÇÒ ÇÓÊ");
+define("COMLAN_336", "áØÝÇ Çåí ÈäæíÓíÏ.");
+define("COMLAN_337", "ÈÑæÒÑÓÇäí ˜Çãá ÔÏ");
+
+define("COMLAN_400", "ãÌÇÒ ÇÓÊ");
+define("COMLAN_401", "ÈáÇ˜ ÔÏå ÇÓÊ");
+define("COMLAN_402", "ÒãÇäÈäÏí ÔÏå");
+
+define("COMLAN_403", "ÐÇÔÊä íÇã ...");
+define("COMLAN_404", "ãÌæÒ");
+
+define("COMLAN_TYPE_1", "ÇÎÈÇÑ");
+define("COMLAN_TYPE_2", "ÏÇäáæÏ");
+define("COMLAN_TYPE_3", "ÑÓÔ");
+define("COMLAN_TYPE_4", "äÙÑÓäÌí");
+define("COMLAN_TYPE_5", "ÇÓäÇÏ");
+define("COMLAN_TYPE_6", "bugtrack");
+define("COMLAN_TYPE_7", "ÇíÏÇá åÇ");
+define("COMLAN_TYPE_8", "ÑæÝÇíá ˜ÇÑÈÑ");
+define("COMLAN_TYPE_PAGE", "ãÍÊæÇ");		// Really custom page, but use a 'non-technical' description
+
+define("COMLAN_500", "Please [sign in] to leave a comment.");
+define("COMLAN_501", "If you are not yet registered, you may [click here to register].");
+
+
+
+
+?>

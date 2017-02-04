@@ -1,0 +1,148 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_usersettings.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+define("PAGE_NAME", "ÊäÙíãÇÊ ˜ÇÑÈÑ");
+
+/*
+LANs rationalised - some common ones now in lan_user.php. Old numbers generally cross-referenced
+// define("LAN_7", "äÇã äãÇíÔí: ");		See LAN_USER_01
+define("LAN_11", "Çíä äÇãí ÇÓÊ ˜å ÈÇ Çä æÇÑÏ ãí ÔæíÏ - æ ÞÇÈá ÊÛííÑ äíÓÊ, ÇÑ ãí ÎæÇåíÏ Çíä˜ÇÑ ÑÇ ÇäÌÇã ÏåíÏ íÚäí äÇã ˜ÇÑÈÑí ÎæÏ ÑÇ ÊÛííÑ ÈÏåíÏ ÈÇíÏ ÍÊãÇ ÈÇ ãÏíÑ ÊãÇÓ ÈíÑíÏ");
+
+//define("LAN_20", "ÎØÇ");
+define("LAN_106", "ÇÏÑÓ Çíãíá ãÚÊÈÑí íÏÇ äÔÏ");
+//define("LAN_112", "ÇÏÑÓ Çíãíá: ");		see LAN_USER_60
+define("LAN_119", "ã˜Çä: ");
+//define("LAN_120", "ÇãÖÇ: ");
+//define("LAN_121", "ÇæÇÊÇÑ: ");
+define("LAN_144", "ÇÏÑÓ æÈÓÇíÊ: ");
+//define("LAN_151", "ÊÇííÏ");
+define("LAN_185", "ÝíáÏ ÑãÒ ÚÈæÑ ÑÇ ÎÇáí ÐÇÔÊíÏ ");
+//define("LAN_308", "äÇã æÇÞÚí: ");
+define("LAN_402", "äæÚ ãÓíÑ íÇ ÇäÊÎÇÈ ÇæÇÊÇÑ");
+
+define("LAN_410", "ÊäÙíãÇÊ ÈÑÇí");
+define("LAN_411", "ÊäÙíãÇÊ ÔãÇ ÈÑæÒÑÓÇäí ÔÏ");
+define("LAN_412", "ÊÛííÑ ÑãÒ ÚÈæÑ ÔãÇ");
+define("LAN_413", "ÇäÊÎÇÈ ÇæÇÊÇÑ");
+//define("LAN_416", "Èáå");
+//define("LAN_417", "ÎíÑ");
+define("LAN_419", "ÔÎÕí / ÇØáÇÚÇÊ ÇÑÊÈÇØí");
+//define("LAN_420", "ÇæÇÊÇÑ");			LAN_USER_07
+//define("LAN_425", "ÝÊæÑÇÝ");		LAN_USER_06
+//define("LAN_427", "ËÈÊ ...");
+//define("LAN_428", "ÇíÊã ÎÈÑí");
+//define("LAN_429", "áíä˜");
+//define("LAN_430", "ÏÇäáæÏ");
+//define("LAN_431", "ãÞÇáå");
+//define("LAN_432", "íÔäãÇíÔ");
+
+//define("LAN_435", "XML User Protocol file");	// LAN_USER_11
+
+//define("LAN_SIGNUP_1", "˜ãÊÑíä.");		See LAN_USER_78
+//define("LAN_SIGNUP_2", "˜ÇÑÇ˜ÊÑ.");	See LAN_USER_79
+//define("LAN_SIGNUP_4", "ÑãÒ ÚÈæÑ ÔãÇ ÈÇíÏ ÍÏ ÇÞá");	See LAN_USER_77
+//define("LAN_SIGNUP_5", " ˜ÇÑÇ˜ÊÑ åÇí ÈÒÑ.");			See LAN_USER_77
+//define("LAN_SIGNUP_6", "ÔãÇ ");				See LAN_USER_75
+//define("LAN_SIGNUP_7", " ãæÑÏ äíÇÒ");		See LAN_USER_75
+
+
+//define("LAN_CUSTOMTITLE", "ÚäæÇä ÇäÊÎÇÈí");		See LAN_USER_04
+//define("LAN_ICQNUMBER", "ICQ number must contain only numbers");
+
+//v.617
+define("LAN_408", "˜ÇÑÈÑí ÈÇ Çíä ÇÏÑÓ Çíãíá ãæÌæÏ ÇÓÊ ");
+*/
+define("MAX_AVWIDTH", "ÈíÔÊÑíä ÇäÏÇÒå ÇæÇÊÇÑ (wxh) is ");
+define("MAX_AVHEIGHT", " x ");
+// define("GIF_RESIZE", "áØÝÇ ÇäÏÇÒå ÊÕæíÑ gif ÑÇ ÊÛííÑ ÏåíÏ íÇ ÝÑãÊ ÇäÑÇ Èå ÝÑãÊ ÊÕæíÑí ÏíÑí ÊÛííÑ ÏåíÏ");
+//define("RESIZE_NOT_SUPPORTED", "ÊÛííÑ ÇäÏÇÒå ÊæÓØ Çíä ÓÑæÑ ÔÊíÈÇäí äãíÔæÏ. áØÝÇ ÇäÏÇÒå ÊÕæíÑ ÑÇ ÊÛííÑ ÏåíÏ íÇ ÏíÑí ÈÑÒíäíÏ. ÝÇíá ÍÐÝ ÎæÇåÏ ÔÏ");
+
+
+// v0.7
+define("LAN_USET_1", "ÚÑÖ ÇæÇÊÇÑ ÔãÇ ˜ãå");
+define("LAN_USET_2", "ÈíÔÊÑíä ÚÑÖ ÇæÇÊÇÑ ÔãÇ åÓÊ");
+define("LAN_USET_3", "ÇæÇÊÇÑ ÔãÇ Îíáí ÈÒÑå");
+define("LAN_USET_4", "ÈíÔÊÑíä ãÌæÒ ÈÑÇí ÇÑÊÝÇÚ ÇæÇÊÇÑ ÔãÇ åÓÊ");
+//define("LAN_USET_5", "ÐíÑÝÊå ÔÏ ÈÑÇí");					// Now LAN_USER_76
+//define("LAN_USET_6", "ÐíÑÝÊä Çíãíá áíÓÊ åÇ íÇ ÈÎÔ åÇíí ÇÒ Çíä ÓÇíÊ");		Now LAN_USER_73
+define("LAN_USET_7", "ãÊÝÑÞå");
+define("LAN_USET_8", "ÇãÖÇ ˜ÇÑÈÑ");
+define("LAN_USET_9", "ÈÚÖí ÇÒ ÝíáÏ åÇ ÖÑæÑí ÇÓÊ (˜å ÈÇ * ãÔÎÕ ÔÏå ÇÓÊ) ÏÑ ÊäÙíãÇÊ ÔãÇ ÏÑÌ äÔÏå ÇäÏ.");
+define("LAN_USET_10","áØÝÇ ÊäÙíãÇÊ ÎæÏ ÑÇ ÈÑæÒ ÑÓÇäí ˜äíÏ ÊÇ Èå ÊÑÊíÈ ÇäÌÇã íÑÏ.");
+define("LAN_USET_11", "äÇã ˜ÇÑÈÑí ãæÑÏ äÙÑ ÐíÑÝÊå äãí ÔæÏ áØÝÇ äÇã ˜ÇÑÈÑí ÏíÑí ÑÇ ÇäÊÎÇÈ äãÇííÏ");
+define("LAN_USET_12", "äÇã äãÇíÔí ˜æÊÇå ÇÓÊ áØÝÇ ÏíÑí ÑÇ ÇäÊÎÇÈ äãÇííÏ");
+define("LAN_USET_13", "˜ÇÑÇ˜ÊÑ åÇí äÇã ˜ÇÑÈÑí äÇãÚÊÈÑ ÇÓÊ áØÝÇ ÏíÑí ÑÇ ÇäÊÎÇÈ äãÇííÏ");
+define("LAN_USET_14", "äÇã ˜ÇÑÈÑí Îíáí ÈÒÑ ÇÓÊ áØÝÇ ÇäÑÇ ÊÛííÑ ÏåíÏ");
+define("LAN_USET_15", "äÇã äãÇíÔí Îíáí ÈÒÑ ÇÓÊ áØÝÇ ÏíÑí ÑÇ ÇäÊÎÇÈ äãÇííÏ");
+define("LAN_USET_16", "Êí˜ ÌÚÈå ÈÑÇí ÍÐÝ ÊÕæíÑ ãæÌæÏ æ ÚÏã ÇáæÏí ÏíÑ");
+define("LAN_USET_17", "äÇã äãÇíÔí ãæÌæÏ ÇÓÊ áØÝÇ ÇäÑÇ ÊÛííÑ ÏåíÏ");
+define("LAN_USET_18", "ÇØáÇÚÇÊ ˜ÇÑÈÑí ÊæÓØ ãÏíÑ ÊÛííÑ íÇÝÊ : --ID--, äÇã ˜ÇÑÈÑí: --LOGNAME--");
+//define("LAN_USET_19", "ÚäæÇä ÇäÊÎÇÈí");			Now LAN_USER_74
+define("LAN_USET_20", "ÇÑ ÔãÇ ÇÏÑÓ Çíãíá æ äÇã ˜ÇÑÈÑÊÇä ÊÛííÑ ˜äÏ ÈÇíÏ ÑãÒ ÚÈæÑ ÎæÏ ÑÇ äíÒ ÊÛííÑ ÏåíÏ");
+define("LAN_USET_21", "áØÝÇ ÈÕæÑÊ ãÚÊÈÑ  re-entering ÑãÒ ÚÈæÑ ÎæÏ ÑÇ æÇÑÏ äãÇííÏ : ");
+//define("LAN_USET_22", "ÓææÑÏ äÇãÚÊÈÑ!"); // LAN_INCORRECT_PASSWORD
+define("LAN_USET_23", "ÑãÒ ãæÌæÏ ÑÇ ÎÇáí ÈÐÇÑíÏ");		// LAN_401
+define("LAN_USET_24", "ÑãÒ ÌÏíÏ: ");							// LAN_152
+define("LAN_USET_25", "Ê˜ÑÇÑ ÑãÒ ÌÏíÏ: ");					// LAN_153
+define("LAN_USET_26", "ÇáæÏ ÇæÇÊÇÑ ÔãÇ");						// LAN_415
+define("LAN_USET_27", "ÇáæÏ ÝÊæÑÇÝí ÔãÇ");					// LAN_414
+define("LAN_USET_28", "Çíä Ñæí ÑæÝÇíá ÔãÇ äÔÇä ÏÇÏå ÎæÇåÏ ÔÏ");	// LAN_426
+//define("LAN_USET_29", "ÇÏÑÓ url Èå ÝÇíá xup ÔãÇ");						// LAN_433
+define("LAN_USET_30", "Çíä íÓÊ ¿");								// LAN_434
+define("LAN_USET_31", "ÇØáÇÚÇÊ ÚÖæíÊ");					// LAN_418
+define("LAN_USET_32", "áØÝÇ ÊæÌå ˜äíÏ:ÊÕæíÑí ˜å Ñæí Çíä ÓÑæÑ ÇáæÏ ˜ÑÏå ÇíÏ Çã˜Çä ÏÇÑÏ äÇãäÇÓÈ ÈÇÔÏ ÇÍÊãÇá ÍÐÝ ÇÒ ØÑíÞ ãÏíÑíÊ æÌæÏ ÏÇÑÏ.");	// LAN_404
+define("LAN_USET_33", "ÇäÊÎæÇÈ ÇæÇÊÇÑ ÇÒ ÏÇÎá ÓÇíÊ");					// LAN_421
+define("LAN_USET_34", "ÇÓÊÝÇÏå ÇÒ ÇæÇÊÇÑ ãÊÕá");							// LAN_422
+define("LAN_USET_35", "áØÝÇ ÇÏÑÓ ˜Çãá ÊÕæíÑ ÑÇ æÇÑÏ äãÇííÏ");			// LAN_423
+define("LAN_USET_36", "ÈÑÇí ÏíÏä ÇæÇÊÇÑ åÇí ÏÇÎá ÓÇíÊ ÈÑ Ñæí Ï˜ãå ˜áí˜ ˜äíÏ");	// LAN_424
+define("LAN_USET_37", "ÐÎíÑå ÊäÙíãÇÊ");								// LAN_154 //TODO common LAN?
+define("LAN_USET_38", "ÇäÊÎæÇÈ ÇæÇÊÇÑ");								// LAN_403
+define("LAN_USET_39", "ÈÑæÒÑÓÇäí ÊäÙíãÇÊ ˜ÇÑÈÑ");						// LAN_155
+define("LAN_USET_40", "ÏæÊÇ ÑãÒ ÚÈæÑ í˜ÓÇä äíÓÊäÏ");			// LAN_105
+define("LAN_USET_41", "ÇÊäÙíãÇÊ ÏÑæä ÏíÊÇÈíÓ ÐÎíÑå æ ÈÑæÒÑÓÇäí ÔÏ");	// LAN_150 //TODO Common LAN?
+define("LAN_USET_42", "ÚÏã ãØÇÈÞÊ Ñæí ˜áíÏ ÇÚÊÈÇÑí");
+define("LAN_USET_43", "ÎØÇí ÈÑæÒÑÓÇäí ÇØáÇÚÇÊ ˜ÇÑÈÑí");
+
+// BC for v1.x template
+//TODO Move to usersettings.php with bcDefs() method.
+define("LAN_7", "äãÇíÔ äÇã: ");
+define("LAN_8", "Çíä äÇã Ñæí ÓÇíÊ äãÇíÔ ãí íÇÈÏ");
+define("LAN_9", "äÇã ˜ÇÑÈÑí: ");
+define("LAN_10", "Çíä äÇã ÔãÇ ÈÑÇí æÑæÏ Èå ÓÇíÊ ÇÓÊÝÇÏå ãí ÔæÏ");
+define("LAN_112", "ÇÏÑÓ Çíãíá: ");
+define("LAN_113", "ÇÏÑÓ Çíãíá ÔãÇ ãÎÝí ÈãÇäÏ ¿: ");
+define("LAN_114", "Çíä ãÇäÚ äãÇíÔ ÏÇÏå ÔÏä Çíãíá ÔãÇ ÈÑ Ñæí ÓÇíÊ ÎæÇåÏ ÔÏ ");
+define("LAN_120", "ÇãÖÇ: ");
+define("LAN_122", "ãäØÞå ÒãÇäí:");
+define("LAN_152", "ÑãÒ ÌÏíÏ: ");
+define("LAN_153", "Ê˜ÑÇÑ ÑãÒ ÌÏíÏ: ");
+define("LAN_154", "ÐÎíÑå ÊäÙíãÇÊ");
+define("LAN_308", "äÇã æÇÞÚí: ");
+define("LAN_401", "ÈÑÇí ÈÇÞí ãÇäÏ ÓææÑÏ ãæÌæÏ Çä ÑÇ ÎÇáí ÈÐÇÑíÏ");
+define("LAN_404", "áØÝÇ ÊæÌå ˜äíÏ : ÏÑ ÕæÑÊ äÇãäÇÓÈ ÈæÏä ÊÕæíÑ Ñæí Çíä ÓÑæÑ ÇÍÊãÇá ÍÐÝ ÇÒ ØÑíÞ ãÏíÑíÊ æÌæÏ ÏÇÑÏ .");
+define("LAN_414", "ÝÊæÑÇÝí ÎæÏ ÑÇ ÇáæÏ ˜äíÏ");
+define("LAN_415", "ÇæÇÊÇÑ ÎæÏ ÑÇ ÇáæÏ ˜äíÏ ");
+define("LAN_418", "ÇØáÇÚÇÊ ÚÖæíÊ");
+define("LAN_420", "ÇæÇÊÇÑ");
+define("LAN_421", "ÇäÊÎæÇÈ ÇæÇÊÇÑ ÇÒ ãÍÊæÇí ÓÇíÊ");
+define("LAN_422", "ÇÒ ÇæÇÊÇÑ ãÊÕá ÇÓÊÝÇÏå ˜äíÏ");
+define("LAN_423", "áØÝÇ ÇÏÑÓ ˜Çãá ÊÕæíÑ ÑÇ æÇÑÏ äãÇííÏ");
+define("LAN_424", "ÈÑÇí ÏíÏä ÇæÇÊÇÑ åÇ Ñæí Çíä ÓÇíÊ ÈÑ Ñæí Ï˜ãå ˜áí˜ ˜äíÏ");
+define("LAN_425", "ÝÊæÑÇÝ");
+define("LAN_426", "Çíä Ñæí ÑæÝÇíá ÔãÇ äãÇíÔ ÏÇÏå ÎæÇåÏ ÔÏ");
+define("LAN_433", "ÇÏÑÓ url Èå ÝÇíá xup ÔãÇ");
+define("LAN_434", "Çíä íÓÊ?");
+define("LAN_435", "XML User Protocol file");
+define("LAN_CUSTOMTITLE", "ÚäæÇä ÇäÊÎæÇÈí");
+define("LAN_USET_5", "ÇÔÊÑÇ˜  ÈÑÇí");
+define("LAN_USET_6", "ÇÔÊÑÇ˜ ÈÑÇí ÈÎÔí ÇÒ ÓÇíÊ æ íÇ áíÓÊ Çíãíá");
+// define("LAN_USET_8", "ÇãÖÇ / ãäØÞå ÒãÇäí");
+?>

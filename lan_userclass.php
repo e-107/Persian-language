@@ -1,0 +1,27 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_userclass.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+define("UC_LAN_0", "åãå  (Úãæãí)");
+define("UC_LAN_1", "ãåãÇä");
+define("UC_LAN_2", "í˜í äíÓÊ (ÛíÑ ÝÚÇá)");
+define("UC_LAN_3", "˜ÇÑÈÑÇä");
+define("UC_LAN_4", "ÝÞØ ÎæÇäÏäí");
+define("UC_LAN_5", "ãÏíÑ");
+define("UC_LAN_6", "ãÏíÑ ÇÕáí");
+define("UC_LAN_7", "ãÏíÑíÊ ÇäÌãä");
+define("UC_LAN_8","ãÏíÑ æ ãÏíÑíÊ");
+define("UC_LAN_9","˜ÇÑÈÑÇä ÌÏíÏ");
+define("UC_LAN_10", "ÌÓÊÌæí ÈæÊ æ ÑæÈæÊ åÇ");
+define("UC_LAN_INVERT", "ÈÏæä --CLASS--");
+define("UC_LAN_INVERTLABEL", "åÑ áÍÙå ÇãÇ...");
+
+
+?>

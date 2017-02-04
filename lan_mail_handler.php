@@ -1,0 +1,21 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvs_backup/e107_0.8/e107_languages/English/lan_mail_handler.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+define("LANMAILH_1", "ØÑÇÍí ÔÏå ÊæÓØ ÓíÓÊã æÈÓÇíÊ e107");
+define("LANMAILH_2", "Çíä í˜ íÇã äÏ ÈÎÔí ÈÇ ÝÑãÊ ãÖÍ˜ ÇÓÊ");
+define("LANMAILH_3", " ÝÑãÊ äÇÏÑÓÊí ÏÇÑÏ ");
+define("LANMAILH_4", "ÇÏÑÓ ÎÇÑÌ ÇÒ ÓÑæÑ ÇÓÊ");
+define("LANMAILH_5", "ÇÓÎí ÇÒ ÓÑæÑ ÏÇÏå äÔÏ");
+define("LANMAILH_6", "ÇÏÑÓ Çíãíá ÓÑæÑ íÇÝÊ äÔÏ.");
+define("LANMAILH_7", " ÇÚÊÈÇÑí íÇÝÊ ÔÏ ");
+
+
+?>
